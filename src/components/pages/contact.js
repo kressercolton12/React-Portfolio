@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import contactPagePicture from "../../../static/assets/images/Backgrounds/keyboardsmall.jpg"
+import contactPagePicture from "../../../static/assets/Images/Backgrounds/keyboardsmall.jpg";
 import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 import { faLink } from "@fortawesome/free-solid-svg-icons";
 
